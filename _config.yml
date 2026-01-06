@@ -97,10 +97,6 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-# favicon setup
-
-favicon: assets/favicons/Copilot_20260106_201749.png
-
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/intro/20251116_162439.jpg
 
