@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Name
+
+Seo Seong Hun (Daniel Seo)
+
+## Contacts
+
+- mail : shseo2023@gmail.com
+- LinkedIn :
