@@ -2,7 +2,8 @@
 layout: post 
 title: "The First Post"
 date: 2026-01-06 20:00:00 +0900
-categories: [Blog] 
+categories: [Blog]
+comments: true
 tags: [jekyll, chirpy] 
 ---
 
