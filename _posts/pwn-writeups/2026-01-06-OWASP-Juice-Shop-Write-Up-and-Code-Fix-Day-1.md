@@ -1,7 +1,8 @@
 ---
 layout: post 
-title: "OWASP Juice Shop Write-Up and Code Fix Day 1 (OWASP Juice Shop의 취약점 리뷰 및 코드 수정하기 1일차)"
+title: "OWASP Juice Shop pwn-writeups and Code Fix Day 1 (OWASP Juice Shop의 취약점 리뷰 및 코드 수정하기 1일차)"
 date: 2026-01-06 20:00:00 +0900
+categories: [pwn-writeups]
 comments: true
 tags: [web, owasp] 
 ---
