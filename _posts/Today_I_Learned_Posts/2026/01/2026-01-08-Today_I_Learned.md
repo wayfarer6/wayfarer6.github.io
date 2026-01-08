@@ -2,7 +2,6 @@
 layout: post 
 title: "쿠버네티스 공부를 시작하며"
 date: 2026-01-08 13:33:00 +0900
-categories: [Blog]
 comments: true
 tags: [k3s,cloud, TIL] 
 ---
