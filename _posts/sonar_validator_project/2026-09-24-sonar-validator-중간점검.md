@@ -21,6 +21,6 @@ tags: [network, infrastructure]
 
 ## 지금까지 구현한 것들
 
-![1790575265225](image/2026-09-24-sonar-validator-중간점검/1790575265225.png)
+![Spring Backend와 Agent(Cisco Router) 간 Envelope 명령/결과 통신 흐름]({{ site.baseurl }}/assets/img/posts/sonar-validator-architecture.png){: .normal }
 
 - 일단 Agent 랑 벡엔드 서버는 어느정도 구현했고 다만 리엑트 프론트엔드는 나에게 너무나 힘든 부분이라 `TailAdmin`을 템플릿으로 사용하여 구현을 시도하고 있다.
