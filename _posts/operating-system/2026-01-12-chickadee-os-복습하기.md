@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Chickadee로 OS 복습하기"
-date: 2026-01-012 13:33:00 +0900
+date: 2026-01-12 13:33:00 +0900
 categories: [OS]
 comments: true
 tags: [chickadee,Memory, OS] 
